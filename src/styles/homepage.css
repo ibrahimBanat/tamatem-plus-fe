@@ -1,0 +1,23 @@
+
+
+@keyframes badgeColorCycle {
+    0% {
+        background-color: #00805A
+    }
+
+    25% {
+        background-color: #008575
+    }
+
+    50% {
+        background-color: #8D3079
+    }
+
+    75% {
+        background-color: #B40056
+    }
+
+    100% {
+        background-color: #C3001E
+    }
+}
